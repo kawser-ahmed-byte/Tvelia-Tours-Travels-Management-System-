@@ -1,4 +1,4 @@
-![home ui](https://github.com/user-attachments/assets/3a1700ae-9649-4e89-8630-df5812875c85)# Tvelia: Tours-Travels-Management-System 🌍✈️
+# Tvelia: Tours-Travels-Management-System 🌍✈️
 
 Welcome to the **Tours and Travels Management System**! This project is a dynamic solution designed to streamline travel operations and provide an easy-to-use interface for managing tours, bookings, and customer data.
 
