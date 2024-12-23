@@ -7,6 +7,7 @@ Welcome to the **Tours and Travels Management System**! This project is a dynami
 ## 🌟 Overview  
 This system was developed using **JavaFX**, **Scene Builder**, and **MySQL**, combining a sleek, user-friendly interface with a powerful backend to efficiently handle travel-related tasks. Whether you're a travel manager or a client, this system simplifies everything from booking accommodations to customizing tours.
 
+---
 <p align="center">
   <img src="src/homeUI.png" alt="TritonZ ROV" width="700">
 </p>
