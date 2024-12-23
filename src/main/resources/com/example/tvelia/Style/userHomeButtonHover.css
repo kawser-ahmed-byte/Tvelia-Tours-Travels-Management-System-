@@ -1,0 +1,63 @@
+.button{
+    -fx-background-color: lightgreen;
+}
+
+.button:hover{
+    -fx-background-color: Khaki;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+
+.button:pressed{
+    -fx-background-color: white;
+    -fx-scale-x: 1.022;
+    -fx-scale-y: 1.022;
+}
+
+.button:focused{
+    -fx-background-color: white;
+}
+
+.buttonLogin{
+    -fx-background-color: #029664;
+    -fx-background-radius: 10;
+
+}
+
+.buttonLogin:hover{
+    -fx-background-color:  #0D200C;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+
+.buttonLogin:pressed{
+    -fx-background-color: black;
+    -fx-scale-x: 1.022;
+    -fx-scale-y: 1.022;
+}
+
+/*.buttonLogin:focused{*/
+/*    -fx-background-color: black;*/
+/*}*/
+
+.buttonGoHome{
+    -fx-background-color: #8BB14C;
+    -fx-background-radius: 10;
+
+}
+
+.buttonGoHome:hover{
+    -fx-background-color:  #95BDE8;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+
+.buttonGoHome:pressed{
+    -fx-background-color: black;
+    -fx-scale-x: 1.022;
+    -fx-scale-y: 1.022;
+}
+
+/*.buttonGoHome:focused{*/
+/*    -fx-background-color: black;*/
+/*}*/

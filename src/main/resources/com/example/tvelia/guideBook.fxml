@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="985.0" prefWidth="933.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.tvelia.GuideBook">
+    <children>
+        <ImageView fitHeight="985.0" fitWidth="933.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@image/GuideBookWhite.png" />
+            </image>
+        </ImageView>
+        <Button layoutX="120.0" layoutY="741.0" mnemonicParsing="false" onAction="#switchToSceneHome" prefHeight="67.0" prefWidth="744.0" styleClass="buttonGoHome" stylesheets="@Style/userHomeButtonHover.css" text="Go to home!" textFill="WHITE">
+            <font>
+                <Font name="Times New Roman Bold" size="28.0" />
+            </font>
+        </Button>
+      <ImageView fitHeight="428.0" fitWidth="464.0" layoutX="254.0" layoutY="44.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@image/file%20(1).gif" />
+         </image>
+      </ImageView>
+    </children>
+</AnchorPane>

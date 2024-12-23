@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="1080.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.tvelia.SignupController">
+    <children>
+        <ImageView fitHeight="1080.0" fitWidth="1920.0" pickOnBounds="true" preserveRatio="true">
+            <image>
+                <Image url="@image/dashboardWithBlankSpace.png" />
+            </image>
+        </ImageView>
+      <Button alignment="TOP_LEFT" layoutX="117.0" layoutY="209.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="195.0" styleClass="customerHome" stylesheets="@Style/samplebuttonHover.css" text="Home" textFill="#fcfcfc">
+         <font>
+            <Font name="Times New Roman Bold" size="22.0" />
+         </font>
+      </Button>
+      <Button alignment="TOP_LEFT" layoutX="117.0" layoutY="293.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="195.0" styleClass="customerHome" stylesheets="@Style/samplebuttonHover.css" text="Explore" textFill="#fcfcfc">
+         <font>
+            <Font name="Times New Roman Bold" size="22.0" />
+         </font>
+      </Button>
+      <Button alignment="TOP_LEFT" layoutX="117.0" layoutY="449.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="195.0" styleClass="customerHome" stylesheets="@Style/samplebuttonHover.css" text="Accounte" textFill="#fcfcfc">
+         <font>
+            <Font name="Times New Roman Bold" size="22.0" />
+         </font>
+      </Button>
+      <Button alignment="TOP_LEFT" layoutX="117.0" layoutY="371.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="195.0" styleClass="customerHome" stylesheets="@Style/samplebuttonHover.css" text="Calendar" textFill="#fcfcfc">
+         <font>
+            <Font name="Times New Roman Bold" size="22.0" />
+         </font>
+      </Button>
+      <Button alignment="TOP_LEFT" layoutX="117.0" layoutY="530.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="195.0" styleClass="customerHome" stylesheets="@Style/samplebuttonHover.css" text="History" textFill="#fcfcfc">
+         <font>
+            <Font name="Times New Roman Bold" size="22.0" />
+         </font>
+      </Button>
+      <Button alignment="TOP_LEFT" layoutX="117.0" layoutY="820.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="195.0" styleClass="customerHome" stylesheets="@Style/samplebuttonHover.css" text="Settings" textFill="#fcfcfc">
+         <font>
+            <Font name="Times New Roman Bold" size="22.0" />
+         </font>
+      </Button>
+      <Button alignment="TOP_LEFT" layoutX="117.0" layoutY="898.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="195.0" styleClass="customerHome" stylesheets="@Style/samplebuttonHover.css" text="Contact us" textFill="#fcfcfc">
+         <font>
+            <Font name="Times New Roman Bold" size="22.0" />
+         </font>
+      </Button>
+      <Button alignment="BASELINE_LEFT" contentDisplay="CENTER" layoutX="138.0" layoutY="982.0" mnemonicParsing="false" prefHeight="41.0" prefWidth="173.0" styleClass="customerHome" stylesheets="@Style/samplebuttonHover.css" text="Log out" textFill="#fcfcfc">
+         <font>
+            <Font name="Times New Roman Bold" size="18.0" />
+         </font>
+      </Button>
+      <Label layoutX="687.0" layoutY="189.0" text="Hi, " />
+    </children>
+</AnchorPane>
