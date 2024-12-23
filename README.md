@@ -1,4 +1,4 @@
-# Tvelia: Tours-Travels-Management-System 🌍✈️
+![home ui](https://github.com/user-attachments/assets/3a1700ae-9649-4e89-8630-df5812875c85)# Tvelia: Tours-Travels-Management-System 🌍✈️
 
 Welcome to the **Tours and Travels Management System**! This project is a dynamic solution designed to streamline travel operations and provide an easy-to-use interface for managing tours, bookings, and customer data.
 
@@ -6,6 +6,10 @@ Welcome to the **Tours and Travels Management System**! This project is a dynami
 
 ## 🌟 Overview  
 This system was developed using **JavaFX**, **Scene Builder**, and **MySQL**, combining a sleek, user-friendly interface with a powerful backend to efficiently handle travel-related tasks. Whether you're a travel manager or a client, this system simplifies everything from booking accommodations to customizing tours.
+
+<p align="center">
+  <img src="src/homeUI.png" alt="TritonZ ROV" width="700">
+</p>
 
 ---
 
