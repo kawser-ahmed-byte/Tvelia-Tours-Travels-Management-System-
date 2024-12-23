@@ -9,7 +9,7 @@ This system was developed using **JavaFX**, **Scene Builder**, and **MySQL**, co
 
 ---
 <p align="center">
-  <img src="src/homeUI.png" alt="TritonZ ROV" width="700">
+  <img src="src/homeui.png" alt="TritonZ ROV" width="700">
 </p>
 
 ---
