@@ -54,9 +54,9 @@ Developing this system was an exciting journey, blending creativity and technica
 1. **Clone this repository**:  
    ```bash  
    git clone https://github.com/yourusername/tvelia-tours-management.git  
-2. ## Set up your MySQL database and configure the connection settings.
-3. ## Open the project in your preferred Java IDE.
-4. ## Run the application and start exploring its features!
+2. Set up your MySQL database and configure the connection settings.
+3. Open the project in your preferred Java IDE.
+4. Run the application and start exploring its features!
 
 ## 🤝 Contributing
 Contributions are welcome! If you’d like to add features, improve the design, or enhance the code, feel free to fork the project and submit pull requests.
